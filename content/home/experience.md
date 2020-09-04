@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Assistant Chief Engineer"
+  company = "Babcock"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Devonport"
+  date_start = "2018-09-03"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Providing technical governance to design projects
+  * Delivering process improvement initiatives
+  * Knowledge management and learning from experience dissemination
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Director and Senior Consultant"
+  company = "Tor Engineering"
   company_url = ""
-  location = "California"
+  location = "Torpoint"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2018-09-01"
 
+[[experience]]
+  title = "Consultant"
+  company = "Frazer-Nash Consultancy"
+  company_url = ""
+  location = "Plymouth"
+  date_start = "2010-03-01"
+  date_end = "2015-12-31"
+  
+[[experience]]
+  title = "Mechanical Engineer"
+  company = "Atkins"
+  company_url = ""
+  location = "Derby"
+  date_start = "2006-10-01"
+  date_end = "2010-03-01"
 +++
