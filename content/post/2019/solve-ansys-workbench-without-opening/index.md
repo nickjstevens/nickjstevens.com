@@ -3,7 +3,7 @@ title: 'Solve ANSYS Workbench project without opening'
 subtitle: ''
 summary: Use a simple script to solve an ANSYS Workbench project
 authors:
-- admin
+- nickjstevens
 tags:
 - ANSYS
 categories:

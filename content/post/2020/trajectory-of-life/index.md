@@ -3,7 +3,7 @@ title: 'Meditations on the trajectory of life'
 subtitle: ''
 summary: 
 authors:
-- admin
+- nickjstevens
 tags:
 - meditations
 categories:

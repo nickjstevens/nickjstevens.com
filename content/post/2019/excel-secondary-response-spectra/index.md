@@ -3,7 +3,7 @@ title: 'Excel Secondary Response Spectra'
 subtitle: 'A macro for calculate SRS using Excel'
 summary: Two functions (VBA in Excel) for dynamic and seismic analysis in Excel.
 authors:
-- admin
+- nickjstevens
 tags:
 - Excel
 - seismic

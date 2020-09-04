@@ -3,7 +3,7 @@ title: 'NAFEMS stochastic challenge problems 01 and 02'
 subtitle: ''
 summary: My solutions to recent NAFEMS Stochastic Working Group challenge problems
 authors:
-- admin
+- nickjstevens
 tags:
 - simulation, python
 categories:

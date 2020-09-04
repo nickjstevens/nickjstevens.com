@@ -3,7 +3,7 @@ title: 'MPC184 rigid beam orientation'
 subtitle: ''
 summary: 
 authors:
-- admin
+- nickjstevens
 tags:
 - ANSYS
 categories:

@@ -4,7 +4,7 @@ name: Nick Stevens
 
 # Username (this should match the folder name)
 authors:
-- admin
+- nickjstevens
 
 # Is this the primary user of the site?
 superuser: true

@@ -3,7 +3,7 @@ title: 'Peak Broadening of Secondary Response Spectra'
 subtitle: ''
 summary: Excel macro to broaden and lower secondary response spectra
 authors:
-- admin
+- nickjstevens
 tags:
 - seismic
 - Excel

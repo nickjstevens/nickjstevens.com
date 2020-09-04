@@ -3,7 +3,7 @@ title: 'Plan Do Review and being an Intelligent Customer sketch note'
 subtitle: ''
 summary: Get Intelligent Results by being an Intelligent Customer and following a simple Plan-Do-Review process
 authors:
-- admin
+- nickjstevens
 tags:
 - sketch note
 - productivity

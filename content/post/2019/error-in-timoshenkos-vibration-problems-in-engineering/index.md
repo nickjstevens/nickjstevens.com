@@ -3,7 +3,7 @@ title: 'Error Found in Timoshenko’s Vibration Problems in Engineering'
 subtitle: ''
 summary: Challenges a published equation and provides a correction with mathematical working shown.
 authors:
-- admin
+- nickjstevens
 tags:
 - dynamics
 categories:

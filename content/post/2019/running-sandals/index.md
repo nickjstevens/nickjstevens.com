@@ -3,7 +3,7 @@ title: 'Homemade Running Sandals'
 subtitle: ''
 summary: Make your own running sandals!
 authors:
-- admin
+- nickjstevens
 tags:
 - minimalism
 categories:

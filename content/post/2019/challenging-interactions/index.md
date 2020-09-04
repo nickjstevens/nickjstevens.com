@@ -3,7 +3,7 @@ title: 'Challenging interactions'
 subtitle: ''
 summary: 
 authors:
-- admin
+- nickjstevens
 tags:
 - motivation
 - meditations

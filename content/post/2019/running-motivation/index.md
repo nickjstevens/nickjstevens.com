@@ -3,7 +3,7 @@ title: 'Running Motivation'
 subtitle: ''
 summary: A collection of motivational running videos and quotes
 authors:
-- admin
+- nickjstevens
 tags:
 - motivation, running
 categories:

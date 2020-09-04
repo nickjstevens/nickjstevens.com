@@ -3,7 +3,7 @@ title: 'An essay on children and life'
 subtitle: ''
 summary: Meditations on children and life
 authors:
-- admin
+- nickjstevens
 tags:
 - motivation
 - Dartmoor

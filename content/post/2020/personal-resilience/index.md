@@ -3,7 +3,7 @@ title: 'Personal Resilience'
 subtitle: ''
 summary: What does personal resilience mean to me?
 authors:
-- admin
+- nickjstevens
 tags:
 - productivity
 - resilience

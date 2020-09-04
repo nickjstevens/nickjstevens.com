@@ -3,7 +3,7 @@ title: 'Practical Tips for Dealing with Stress Singularities'
 subtitle: ''
 summary: Simple steps to evaluate convergence and address non-convergence
 authors:
-- admin
+- nickjstevens
 tags:
 - simulation
 categories:

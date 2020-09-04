@@ -3,7 +3,7 @@ title: 'Beam Elements with Warping in ANSYS Workbench'
 subtitle: ''
 summary: Considerations for capturing warping of open sections under torsion in ANSYS
 authors:
-- admin
+- nickjstevens
 tags:
 - simulation
 - warping

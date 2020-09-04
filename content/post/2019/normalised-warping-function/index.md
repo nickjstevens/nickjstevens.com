@@ -3,7 +3,7 @@ title: 'Normalised Warping Function'
 subtitle: ''
 summary: A methodology using a finite element model to determine the normalised warping function
 authors:
-- admin
+- nickjstevens
 tags:
 - ANSYS
 - warping

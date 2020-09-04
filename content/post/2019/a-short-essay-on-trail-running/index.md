@@ -3,7 +3,7 @@ title: 'A short essay on trail running'
 subtitle: ''
 summary: My thoughts from a recent trail run
 authors:
-- admin
+- nickjstevens
 tags:
 - running
 categories:

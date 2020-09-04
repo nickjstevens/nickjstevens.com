@@ -3,7 +3,7 @@ title: 'The One Thing book review'
 subtitle: ''
 summary: 4/5 - An easy-to-read, impactful productivity book.
 authors:
-- admin
+- nickjstevens
 tags:
 - productivity
 - book review

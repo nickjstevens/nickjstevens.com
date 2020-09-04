@@ -3,7 +3,7 @@ title: 'Barefoot Running'
 subtitle: 'Feel the freedom and childlike joy of running with no shoes'
 summary: Introduction to barefoot running and the key benefits.
 authors:
-- admin
+- nickjstevens
 tags:
 - minimalism
 categories:

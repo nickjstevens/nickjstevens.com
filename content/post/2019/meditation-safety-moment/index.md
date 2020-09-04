@@ -3,7 +3,7 @@ title: 'Meditation safety moment'
 subtitle: ''
 summary: An alternative safety moment on mental health
 authors:
-- admin
+- nickjstevens
 tags:
 - productivity
 - meditations

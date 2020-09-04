@@ -3,7 +3,7 @@ title: 'Extreme Ownership book review'
 subtitle: ''
 summary: 5/5. Excellent book that changed how I think. 
 authors:
-- admin
+- nickjstevens
 tags:
 - book review
 - productivity

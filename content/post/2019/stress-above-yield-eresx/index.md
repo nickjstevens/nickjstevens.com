@@ -3,7 +3,7 @@ title: 'Elastic-Plastic Analysis in ANSYS Gives Stress Above Yield'
 subtitle: ''
 summary: Understand why ANSYS reports stresses above yield and how to fix it
 authors:
-- admin
+- nickjstevens
 tags:
 - ANSYS
 - simulation

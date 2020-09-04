@@ -3,7 +3,7 @@ title: 'ANSYS Percentage Stress Error'
 subtitle: ''
 summary: Check mesh quality using a measure of percentage stress error.
 authors:
-- admin
+- nickjstevens
 tags:
 - ANSYS
 categories:

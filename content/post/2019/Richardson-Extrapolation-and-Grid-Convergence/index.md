@@ -3,7 +3,7 @@ title: 'Richardson Extrapolation and Grid Convergence Index'
 subtitle: ''
 summary: Spreadsheet for mesh convergence studies 
 authors:
-- admin
+- nickjstevens
 tags:
 - simulation
 - excel

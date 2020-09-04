@@ -3,7 +3,7 @@ title: 'Excel chart with manual data entry'
 subtitle: ''
 summary: Create an Excel chart series with manual data entry directly
 authors:
-- admin
+- nickjstevens
 tags:
 - Excel
 categories:

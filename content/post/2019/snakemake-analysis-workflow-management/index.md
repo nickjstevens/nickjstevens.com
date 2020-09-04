@@ -3,7 +3,7 @@ title: 'Snakemake Analysis Workflow Management'
 subtitle: ''
 summary: Manage dependencies of a complex simulation using the concept of Directed Acyclic Graphs
 authors:
-- admin
+- nickjstevens
 tags:
 - simulation
 categories:

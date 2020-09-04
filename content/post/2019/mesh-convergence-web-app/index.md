@@ -3,7 +3,7 @@ title: 'Mesh Convergence Web App'
 subtitle: ''
 summary: A free and easy web app for mesh convergence studies
 authors:
-- admin
+- nickjstevens
 tags:
 - simulation
 categories:

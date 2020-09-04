@@ -3,7 +3,7 @@ title: 'Running Periodisation'
 subtitle: ''
 summary: 
 authors:
-- admin
+- nickjstevens
 tags:
 - running
 categories:

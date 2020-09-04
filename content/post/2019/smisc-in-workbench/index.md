@@ -3,7 +3,7 @@ title: 'SMISC in ANSYS Workbench'
 subtitle: ''
 summary: Use a User Defined Result for extract SMISC results in ANSYS Workbench
 authors:
-- admin
+- nickjstevens
 tags:
 - ANSYS
 categories:

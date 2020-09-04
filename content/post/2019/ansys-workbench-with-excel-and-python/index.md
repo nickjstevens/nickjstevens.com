@@ -3,7 +3,7 @@ title: 'ANSYS Workbench with Excel and Python'
 subtitle: ''
 summary: Link ANSYS and Excel to automate the boring stuff
 authors:
-- admin
+- nickjstevens
 tags:
 - ANSYS
 - Excel

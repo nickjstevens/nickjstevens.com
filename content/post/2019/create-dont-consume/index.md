@@ -3,7 +3,7 @@ title: 'Create, don’t consume Sketch Note'
 subtitle: ''
 summary: Create, don’t consume - don't do invisible work
 authors:
-- admin
+- nickjstevens
 tags:
 - sketch note
 categories:

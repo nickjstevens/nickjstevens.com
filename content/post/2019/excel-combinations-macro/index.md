@@ -3,7 +3,7 @@ title: 'Excel Combinations Macro'
 subtitle: ''
 summary: An Excel macro to calculate combinations of parameters
 authors:
-- admin
+- nickjstevens
 tags:
 - Excel
 categories:

@@ -3,7 +3,7 @@ title: 'Automated Workflow Report'
 subtitle: ''
 summary: Automate the production of an analysis report by incorporating in an analysis workflow
 authors:
-- admin
+- nickjstevens
 tags:
 - simulation
 categories:
