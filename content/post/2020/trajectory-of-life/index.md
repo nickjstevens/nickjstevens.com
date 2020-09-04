@@ -19,7 +19,7 @@ draft: false
 image:
   caption: 'The trajectory of life'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
